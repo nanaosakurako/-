@@ -1,0 +1,33 @@
+@media(max-width:1000px){
+  header{
+    width:80%;
+  }
+}
+@media(max-width:670px){
+  header{
+    width:100%;
+  }
+}
+@media(max-width:1000px) {
+  .copy-container{
+    width:80%;
+  }
+}
+@media(max-width:670px){
+  .copy-container{
+    width: 100%;
+  }
+}
+@media(max-width:1000px){
+  .copy-container h1{
+    width:80%;
+    text-align: center;
+  }
+}
+@media(max-width:670px) {
+  .copy-container h1{
+    width:100%;
+    text-align: center;
+  }
+
+}
